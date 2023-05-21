@@ -1,9 +1,21 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-.container{
+
+.container {
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.span {
+    background: #142850;
+    border-radius: 16px;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    width: 62px;
+    height: 35px;
+
 }
